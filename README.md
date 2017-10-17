@@ -8,4 +8,4 @@ Team members :
 2. Gautami Khandekar
 3. Abinav Pothuganti
 
-Please find demo video at ![demo](https://github.com/pranav-firake/Wolfhackers/blob/master/WolfHackers.mp4)
+Please find demo video at [demo](https://github.com/pranav-firake/Wolfhackers/blob/master/WolfHackers.mp4)
